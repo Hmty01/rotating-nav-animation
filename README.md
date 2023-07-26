@@ -1,2 +1,2 @@
 # rotating-nav-animation
- with JS
+ with_JS
